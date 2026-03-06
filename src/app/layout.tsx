@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import '../../styles/globals.css'  // <-- changed path
+import '../../../styles/globals.css'
 
 export const metadata: Metadata = {
   title: 'MotionArt — Turn Your Cover Art Into Motion',
